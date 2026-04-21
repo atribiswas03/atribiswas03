@@ -5,7 +5,7 @@ Hello👋, I'm Atri Biswas!<br><br>
 🎓 <strong>Education</strong><br>
 MCA Pursuing from Techno Main Salt Lake<br>
 BCA Graduate from Techno India Kolkata
-.<br><br>Philosophy & Traits<br>              🔍 I believe in writing clean code and solving real problems<br><br>               🧠 Fast learner who loves simplifying complexity<br><br>               🤝 Team player with a positive mindset and calm leadership<br><br>               🌍 Love exploring offbeat places and learning through travel<br><br>“Code with logic. Design with heart. Deliver with passion.” <br>                                                                                                  – Atri Biswas
+<br>Philosophy & Traits<br>              🔍 I believe in writing clean code and solving real problems<br><br>               🧠 Fast learner who loves simplifying complexity<br><br>               🤝 Team player with a positive mindset and calm leadership<br><br>               🌍 Love exploring offbeat places and learning through travel<br><br>“Code with logic. Design with heart. Deliver with passion.” <br>                                                                                                  – Atri Biswas
 
 
 ## 🌐 Socials:
